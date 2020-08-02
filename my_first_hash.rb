@@ -26,7 +26,7 @@ def retrieval
   }
 end
 
-puts the_manifest["oil paintings"] 
+puts shipping_manifest["oil paintings"] 
 
 
 
