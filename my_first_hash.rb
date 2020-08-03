@@ -30,6 +30,7 @@ end
 # add 2 muskets to the shipping_manifest hash below
 # add 4 gun powder to the shipping_manifest hash below
 # return the shipping_manifest hash below
+#hash["new_key"] = "New Value"
 
 def adding
   shipping_manifest = {
